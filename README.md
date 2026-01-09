@@ -1,0 +1,1 @@
+# World-Global-Talent-Competitive-Index
