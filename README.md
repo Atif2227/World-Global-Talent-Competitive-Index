@@ -1,14 +1,7 @@
-# 📌 Project Title - Medicare Global Healthcare Analytics Suite
-**Healthcare Analytics Suite** is a comprehensive Power BI reporting solution designed for hospitals and healthcare organizations. The project includes interactive and customized dashboards for key areas such as **In-patient (IP), Out-patient (OP), Emergency, Procedures, Surgeries, Revenue, Labs, etc.** This dashboard was imbedded in a multi-tier client-server and internet-based business solution (**YASASII**) that serves as a Hospital Information System (HIS). 
-
-The **YASASII-HIS Data** is hosted in a **PostgreSQL** database, organized into tables, views, stored procedures, etc. The reports are tailored to meet client-specific requirements, ensuring insightful and actionable analytics. This solution also involves continuous bug fixing and enhancements for optimal performance and user satisfaction.
-
----
+# 📌 World Global Talent Competitive Index (GTCI) – Power BI Dashboard
+The World Global Talent Competitive Index (GTCI) project explores how countries around the world attract, develop, and retain talent. Using an interactive Power BI dashboard, the project breaks down complex global data into clear visuals that make it easy to compare countries, understand strengths and weaknesses, and see what factors influence talent competitiveness. This dashboard is designed to help users quickly gain insights without needing deep technical or economic knowledge.
 
 ## 🧠 Purpose
-The **Medicare Global Healthcare Analytics Suite** serves as a centralized strategic intelligence hub for hospital administrators and clinical leads. Its primary purpose is 
-# 📌 World Global Talent Competitive Index (GTCI) – Power BI Dashboard
-
 The **World Global Talent Competitive Index (GTCI) Dashboard** analyzes how countries attract, develop, and retain talent using the Global Talent Competitiveness Index dataset.  
 This project converts a complex global dataset into an **interactive, decision-ready Power BI dashboard** designed for **policy makers, economists, HR leaders, and data analysts**.
 
