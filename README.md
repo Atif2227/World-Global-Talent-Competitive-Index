@@ -1,6 +1,5 @@
 # 📌 World Global Talent Competitive Index (GTCI) – Power BI Dashboard
 
-## 🧠 Purpose
 The **World Global Talent Competitive Index (GTCI) Dashboard** analyzes how countries attract, develop, and retain talent using the Global Talent Competitiveness Index dataset.  
 This project converts a complex global dataset into an **interactive, decision-ready Power BI dashboard** designed for **policy makers, economists, HR leaders, and data analysts**.
 
