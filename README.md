@@ -2,6 +2,8 @@
 The World Global Talent Competitive Index (GTCI) project explores how countries around the world attract, develop, and retain talent. Using an interactive Power BI dashboard, the project breaks down complex global data into clear visuals that make it easy to compare countries, understand strengths and weaknesses, and see what factors influence talent competitiveness. This dashboard is designed to help users quickly gain insights without needing deep technical or economic knowledge.
 ![World GTCI](Screenshots/World%20Global%20Talent%20Competitive%20Index_page-0002.jpg)
 
+**[Click here to view the complete PDF report](Screenshots/World%20Global%20Talent%20Competitive%20Index.pdf)**
+
 ---
 
 ## 🧠 Purpose
