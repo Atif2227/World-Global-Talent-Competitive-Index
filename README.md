@@ -56,7 +56,7 @@ This project converts a complex global dataset into an **interactive, decision-r
 ---
 
 ## 📸 Screenshots
-*(Screenshots are in the screenshot folder)*
+*All the screenshots and PDFs are in the [Screenshot](Screenshots) folder.*
 
 - **Overview Dashboard**
 - **GTCI Country Rankings**
