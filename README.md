@@ -1,4 +1,12 @@
 # 📌 World Global Talent Competitive Index (GTCI) – Power BI Dashboard
+
+---
+**Role:** Senior Data Analyst, Consultant  
+**Domain:** Population/Demography Analytics  
+**Objective:** The objective of the World Global Talent Competitive Index (GTCI) – Power BI Dashboard is to transform a complex global dataset into an interactive decision-making tool that allows stakeholders to analyze and compare how countries attract, develop, and retain talent.
+
+---
+
 The World Global Talent Competitive Index (GTCI) project explores how countries around the world attract, develop, and retain talent. Using an interactive Power BI dashboard, the project breaks down complex global data into clear visuals that make it easy to compare countries, understand strengths and weaknesses, and see what factors influence talent competitiveness. This dashboard is designed to help users quickly gain insights without needing deep technical or economic knowledge.
 ![World GTCI](Screenshots/World%20Global%20Talent%20Competitive%20Index_page-0002.jpg)
 
@@ -83,3 +91,13 @@ This project demonstrates:
 - Ability to translate **global datasets into actionable insights**
 - Clear **analytical thinking and storytelling** aligned with real-world decision-making
 
+---
+
+## 👤 Consultant
+
+**Atif Noorul Hasan** <br />
+Healthcare Analytics Consultant <br />
+Business Intelligence | Data Analytics | Dashboard Design <br />
+
+🔗 Website – https://atifdata.com <br />
+✉️ Email – atif@atifdata.com
