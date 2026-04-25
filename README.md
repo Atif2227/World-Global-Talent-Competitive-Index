@@ -12,6 +12,13 @@ This project converts a complex global dataset into an **interactive, decision-r
 
 ---
 
+## 🛑 The Business Problem:
+National governments often struggle to understand why they are losing high-skilled workers to other regions despite significant investments in education. Without a multi-dimensional view of talent competitiveness, policymakers rely on anecdotal evidence rather than data. This "data blindness" leads to misallocated budgets—for example, investing in universities (Grow) while the regulatory environment (Enable) or quality of life (Retain) is actually what's driving talent away.
+
+## ✔ The Solution:
+A comprehensive Power BI suite that benchmarks a nation's performance across 6 key pillars, allowing leaders to identify if their talent "leakage" is a result of market landscape, lack of lifelong learning, or poor external openness.
+
+---
 ## 📊 Features
 - 🌍 **Country-wise GTCI ranking and score comparison**
 - 📈 **Overall talent competitiveness analysis**
